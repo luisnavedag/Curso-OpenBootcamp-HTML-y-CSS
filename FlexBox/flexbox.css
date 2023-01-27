@@ -1,0 +1,16 @@
+.container1{
+   display: flex;
+   background-color: rgb(6, 31, 116); 
+   padding: 2rem;
+   justify-content: space-between;
+   gap: 0.5rem;
+}
+
+.item{
+    background-color: beige;
+    width: 10rem;
+    padding: 0.5rem;
+}
+
+
+
